@@ -5,23 +5,21 @@ This is the code and other resources used in the Q1 R-HTA in LMICs workshop.
 
 For the files corresponding to the presentations, please use the following links:
 
-<b>
-**Presenter 1:**
+<body>
+<b>Presenter 1:</b>
 <p>
 - presentation details
 </p>
-</b>
-
-<b>
-**Presenter 2:**
+</body>
+<body>
+<b>Presenter 2:</b>
 <p>
 - presentation details
 </p>
-</b>
-
-<b>
-**Presenter 3:**
+</body>
+<body>
+<b>Presenter 3:</b>
 <p>
 - presentation details
 </p>
-</b>
+</body>
