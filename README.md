@@ -1,8 +1,7 @@
 # R-HTA in LMICs: Presentation Workshop 2022
-This is the code and other resources used in the Q1 R-HTA in LMICs workshop.
+Code and other resources for the Q1 R-HTA in LMICs presentation workshop.
 
 <img src="img/logo.png" width="260" align="right" />
-
 
 <h1 id = 'first'>Day 1</h1>
 <h2 id = 'topics'>A Topic</h2>
