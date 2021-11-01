@@ -33,7 +33,7 @@ Code and other resources for the Q1 R-HTA in LMICs presentation workshop.
 - presentation details
 </p>
 </body>
-<h2 id = 'topics'>A Topic</h2>
+<h2 id = 'topics'>A theme</h2>
 <body>
 <b>Presenter 2:</b>
 <p>
