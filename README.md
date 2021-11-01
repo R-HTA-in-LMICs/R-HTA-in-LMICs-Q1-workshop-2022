@@ -5,6 +5,7 @@ This is the code and other resources used in the Q1 R-HTA in LMICs workshop.
 
 
 <h1 id = 'first'>Day 1</h1>
+<h2 id = 'topics'>A Topic</h2>
 <body>
 <b>Presenter 1:</b>
 <p>
@@ -17,6 +18,7 @@ This is the code and other resources used in the Q1 R-HTA in LMICs workshop.
 - presentation details
 </p>
 </body>
+<h2 id = 'topics'>A Topic</h2>
 <body>
 <b>Presenter 3:</b>
 <p>
@@ -25,12 +27,14 @@ This is the code and other resources used in the Q1 R-HTA in LMICs workshop.
 </body>
 
 <h1 id = 'second'>Day 2</h1>
+<h2 id = 'topics'>A Topic</h2>
 <body>
 <b>Presenter 1:</b>
 <p>
 - presentation details
 </p>
 </body>
+<h2 id = 'topics'>A Topic</h2>
 <body>
 <b>Presenter 2:</b>
 <p>
