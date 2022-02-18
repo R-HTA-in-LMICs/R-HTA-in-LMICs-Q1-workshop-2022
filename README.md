@@ -20,6 +20,7 @@ A brief overview and tutorial on using Github with R and Rstudio
 <h2 id = 'Titles'>BCEA: making decision modelling in R more user-friendly</h2>
 <body>
 <b>Presenter: <a href = "https://www.ucl.ac.uk/statistics/dr-nathan-green">Dr Nathan Green<a/></b>
+</body>
 <b>
 <a href = "https://cran.r-project.org/web/packages/BCEA/index.html">CRAN link<a/>
 </b>
@@ -30,6 +31,7 @@ An introduction to the BCEA package and how it enables more user-friendly health
 <h2 id = 'Titles'>The Potential of R Shiny User Interfaces to Support Health Economic Decision Making</h2>
 <body>
 <b>Presenter: <a href = "https://www.ucl.ac.uk/statistics/dr-nathan-green">Rose Hart<a/> and <a href = "https://www.ucl.ac.uk/statistics/dr-nathan-green">Robert Smith<a/></b>
+</body>
 <b>
 <a href = "https://github.com/r-hta/R-Shiny-for-HTA">Github repo<a/>
 </b>
