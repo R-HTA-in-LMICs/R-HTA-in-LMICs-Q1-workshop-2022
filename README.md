@@ -42,5 +42,48 @@ The R package Shiny has the potential to resolve this limitation. It allows prog
 <p>
 Overview of the models and presentation of a Shiny app by Mr David Tordrup, Triangulate Health Ltd. The model and app were developed by the World Health Organization in in collaboration with Triangulate Health Ltd.
 </p>
-Link to the study in <a href = "https://gh.bmj.com/content/7/2/e004512">BMJ Global Health<a/>.
+Read the study in <a href = "https://gh.bmj.com/content/7/2/e004512">BMJ Global Health<a/>.
+</body>
+<h2 id = 'Titles'>The Cost-Effectiveness of COVID Vaccines: a Shiny presentation</h2>
+<body>
+<b>Presenter: <a href = "https://www.himss.org/speaker-alejandro-lopez-osornio">Dr Alejandro Lopez Osornio<a/></b>
+<p>
+A an interactive presentation on the health impact and cost-effectiveness of COVID-19 vaccines for 26 Latin American counties, using Shiny.
+</p>
+The code for this model is not open-source
+</body>
+<h2 id = 'Titles'>Budget Impact Analysis: a Shiny based calculator</h2>
+<body>
+<b>Presenter: <a href = "https://www.iecs.org.ar/evaluacion-de-tecnologias-sanitarias-y-economia-de-la-salud/equipo-de-trabajo/">Dr Federico Cairoli<a/></b>
+<p>
+A Budget Impact Analysis presentation focusing on the usefulness of using Shiny and its ability to let decision makers interact with models.
+</p>
+The code for this model is not open-source
+</body>
+<h2 id = 'Titles'>Modelling Covid in R: an experience in using R over Excel for SIR modelling</h2>
+<body>
+<b>Presenter: <a href = "https://www.linkedin.com/in/ivan-zimmermann-57392852/">Dr Ivan Zimmerman<a/></b>
+<p>
+On presentation on moving from Excel to R for SIR modelling. The presentation discuss why modelling an SIR model in Excel takes time and a high probability of error due to cells replication. In comparison, using R is much simpler and less prone to error.
+</p>
+The code for this model is not open-source
+</body>
+<h2 id = 'Titles'>A Simplified Model of the Cost-Effectiveness of Screening: An Open-Source Teaching and Research Tool Coded in R</h2>
+<body>
+<b>Presenter: <a href = "https://www.tcd.ie/medicine/health_policy_management/staff/">Yi-Shu Lin<a/></b>
+<p>
+Models applied in cost-effectiveness analyses of screening are typically designed to address specific policy questions and consequently tend to be large and complex. They are not well suited to teaching the fundamentals of screening modelling or to demonstrating novel modelling methods.
+</p>
+<p>
+The presentations thus describes a lightweight, fully shareable and transparent screening model for teaching and methods research. This is a simplified, discrete-event, microsimulation model of screening coded in R and supported with an Excel-based user interface for the specification of input parameters. The model's components relating to the natural history of disease, test performance and anticipated health gain and healthcare costs are also demonstrated.
+</p>
+The source code for this model will be shared once the author has given permission
+</body>
+<h2 id = 'Titles'>A Need for Change! A Coding Framework for Improving Transparency in Decision Modelling</h2>
+<body>
+<b>Presenter: <a href = "https://r-hta.org/authors/fernando-alarid-escudero/">Dr Fernando Escudero<a/></b>
+<p>
+The use of open-source programming languages, such as R, in health decision sciences is growing and has the potential to facilitate model transparency, reproducibility, and shareability. However, realizing this potential can be challenging. Models are complex and primarily built to answer a research question, with model sharing and transparency relegated to being secondary goals. Consequently, code is often neither well documented nor systematically organized in a comprehensible and shareable approach. Moreover, many decision modelers are not formally trained in computer programming and may lack good coding practices, further compounding the problem of model transparency. To address these challenges, the presentation provides an overview of a high-level framework for model-based decision and cost-effectiveness analyses (CEA) in R.
+</p>
+Read the open-access article in <a href = "https://link.springer.com/article/10.1007/s40273-019-00837-x">Springer<a/>.
 </body>
