@@ -40,7 +40,7 @@ The R package Shiny has the potential to resolve this limitation. It allows prog
 <body>
 <b>Presenter: <a href = "http://www.davidtordrup.dk/">David Tordup<a/></b>
 <p>
-Overview of the models and presentation of a Shiny app by Mr David Tordrup, Triangulate Health Ltd. The model and app were developed by the World Health Organization in in collaboration with Triangulate Health Ltd. The study was <a href = "https://gh.bmj.com/content/7/2/e004512">published<a/> in BMJ Global Health.
+Overview of the models and presentation of a Shiny app by Mr David Tordrup, Triangulate Health Ltd. The model and app were developed by the World Health Organization in in collaboration with Triangulate Health Ltd.
 </p>
-<a href = "https://github.com/r-hta/R-Shiny-for-HTA">Github repo<a/>
+Link to the study in <a href = "https://gh.bmj.com/content/7/2/e004512">BMJ Global Health<a/>.
 </body>
