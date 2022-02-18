@@ -56,7 +56,7 @@ The code for this model is not open-source
 <body>
 <b>Presenter: <a href = "https://www.iecs.org.ar/evaluacion-de-tecnologias-sanitarias-y-economia-de-la-salud/equipo-de-trabajo/">Dr Federico Cairoli<a/></b>
 <p>
-A Budget Impact Analysis presentation focusing on the usefulness of using Shiny and its ability to let decision makers interact with models.
+A Budget Impact Analysis presentation focusing Shiny and its ability to provide decision makers with an interactive model format.
 </p>
 The code for this model is not open-source
 </body>
@@ -85,5 +85,14 @@ The source code for this model will be shared once the author has given permissi
 <p>
 The use of open-source programming languages, such as R, in health decision sciences is growing and has the potential to facilitate model transparency, reproducibility, and shareability. However, realizing this potential can be challenging. Models are complex and primarily built to answer a research question, with model sharing and transparency relegated to being secondary goals. Consequently, code is often neither well documented nor systematically organized in a comprehensible and shareable approach. Moreover, many decision modelers are not formally trained in computer programming and may lack good coding practices, further compounding the problem of model transparency. To address these challenges, the presentation provides an overview of a high-level framework for model-based decision and cost-effectiveness analyses (CEA) in R.
 </p>
-Read the open-access article in <a href = "https://link.springer.com/article/10.1007/s40273-019-00837-x">Springer<a/>.
+Read the open-access article in <a href = "https://link.springer.com/article/10.1007/s40273-019-00837-x">Springer<a/>
+</body>
+<h2 id = 'Titles'>Panel discussion: are the features of modern software tools ( R ) also useful for HTA modeling  in LMICs?</h2>
+<body>
+<b>Moderator: <a href = "https://za.linkedin.com/in/buhle-n-04a5661a">Buhle Ndweni<a/></b>
+<b>Panelists:<a href ="https://r-hta.org/authors/fernando-alarid-escudero/">Assistant Prof Fernando Alarid-Escudero<a/>, <a href = "https://www.ucl.ac.uk/statistics/people/gianlucabaio">Prof Gianluca Biao<a/>, <a href = "https://southafrica.inspiringfifty.org/lucy-cunnama">Dr Lucy Cunnama<a/>
+</b>, and <a href = "https://www.bristol.ac.uk/people/person/Howard-Thom-7d5ace0c-a4eb-4fa0-8c0b-37dc141c0e9f/">Dr Howard Thom<a/>
+<p>
+The panel discussesion centers on the potential strengths and weaknesses of R for HTA in LMICs across four domains: clinical realism, quantifying decision uncertainty, transparency/reproducibility, and reusability/adaptability.
+</p>
 </body>
