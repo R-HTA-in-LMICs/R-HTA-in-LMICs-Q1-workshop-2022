@@ -14,7 +14,7 @@ This repository is for the code and decks used by the presenters of the first-qu
 <body>
 <b>Presenter: [Joshua Soboil](https://jsoboil.github.io/)</b>
 <p>
-- A brief overview and tutorial on using Github with R and Rstudio.
+- A brief overview and tutorial on using Github with R and Rstudio
 </p>
 </body>
 
