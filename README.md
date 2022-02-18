@@ -17,25 +17,15 @@ This repository is for the code and decks used by the presenters of the first-qu
 - A brief overview and tutorial on using Github with R and Rstudio
 </p>
 </body>
-
-<h1 id = 'second'>Day 2</h1>
-<h2 id = 'Titles'>A theme</h2>
+<h2 id = 'Titles'>BCEA: making decision modelling in R more user-friendly</h2>
 <body>
-<b>Presenter 1:</b>
+<b>Presenter: <a href = "https://www.ucl.ac.uk/statistics/dr-nathan-green">Rose Hart<a/> and <a href = "https://www.ucl.ac.uk/statistics/dr-nathan-green">Dr Robert Smith<a/></b>
 <p>
-- presentation details
+- An introduction to the BCEA package and how it enables more user-friendly health economic decision modelling in R
 </p>
 </body>
-<h2 id = 'Titles'>A theme</h2>
-<body>
-<b>Presenter 2:</b>
+<b>Presenter: <a href = "https://www.ucl.ac.uk/statistics/dr-nathan-green">Dr Nathan Green<a/></b>
 <p>
-- presentation details
-</p>
-</body>
-<body>
-<b>Presenter 3:</b>
-<p>
-- presentation details
+- An introduction to the BCEA package and how it enables more user-friendly health economic decision modelling in R
 </p>
 </body>
