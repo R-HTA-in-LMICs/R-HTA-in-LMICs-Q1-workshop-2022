@@ -19,12 +19,14 @@ This repository is for the code and decks used by the presenters of the first-qu
 </body>
 <h2 id = 'Titles'>BCEA: making decision modelling in R more user-friendly</h2>
 <body>
-<b>Presenter: <a href = "https://www.ucl.ac.uk/statistics/dr-nathan-green">Rose Hart<a/> and <a href = "https://www.ucl.ac.uk/statistics/dr-nathan-green">Dr Robert Smith<a/></b>
+<b>Presenter: <a href = "https://www.ucl.ac.uk/statistics/dr-nathan-green">Dr Nathan Green<a/></b>
 <p>
 - An introduction to the BCEA package and how it enables more user-friendly health economic decision modelling in R
 </p>
 </body>
-<b>Presenter: <a href = "https://www.ucl.ac.uk/statistics/dr-nathan-green">Dr Nathan Green<a/></b>
+<h2 id = 'Titles'>The Potential of R Shiny User Interfaces to Support Health Economic Decision Making</h2>
+<body>
+<b>Presenter: <a href = "https://www.ucl.ac.uk/statistics/dr-nathan-green">Rose Hart<a/> and <a href = "https://www.ucl.ac.uk/statistics/dr-nathan-green">Robert Smith<a/></b>
 <p>
 - An introduction to the BCEA package and how it enables more user-friendly health economic decision modelling in R
 </p>
