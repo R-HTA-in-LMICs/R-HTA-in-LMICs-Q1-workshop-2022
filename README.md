@@ -27,7 +27,7 @@ An introduction to the BCEA package and how it enables more user-friendly health
 </body>
 <h2 id = 'Titles'>The Potential of R Shiny User Interfaces to Support Health Economic Decision Making</h2>
 <body>
-<b>Presenters: <a href = "https://www.ucl.ac.uk/statistics/dr-nathan-green">Rose Hart<a/> and <a href = "https://www.ucl.ac.uk/statistics/dr-nathan-green">Robert Smith<a/></b>
+<b>Presenters: <a href = "https://www.bresmed.com/team/rose-hart/">Rose Hart<a/> and <a href = "https://www.sheffield.ac.uk/scharr/people/pgr-students/robert-smith">Robert Smith<a/></b>
 <p>
 Health economic evaluation models have traditionally been built in Microsoft Excel, but more sophisticated tools are increasingly being used as model complexity and computational requirements increase. Of all the programming languages, R is most popular amongst health economists because it has a plethora of user created packages and is highly flexible. However, even with an integrated development environment such as R Studio, R lacks a simple point and click user interface and therefore requires some programming ability. This might make the switch from Microsoft Excel to R seem daunting, and it might make it difficult to directly communicate results with decisions makers and other stakeholders.
 </p>
