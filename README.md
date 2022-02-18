@@ -12,7 +12,7 @@ This repository is for the code and decks used by the presenters of the first-qu
 </p>
 <h2 id = 'Titles'>Getting Started with Github and R</h2>
 <body>
-<b>Presenter: [Joshua Soboil](https://jsoboil.github.io/)</b>
+<b>Presenter: <a href = "https://jsoboil.github.io/">Joshua Soboil<a/></b>
 <p>
 - A brief overview and tutorial on using Github with R and Rstudio
 </p>
