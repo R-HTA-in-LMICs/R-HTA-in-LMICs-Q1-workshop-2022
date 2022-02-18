@@ -89,11 +89,11 @@ Read the open-access article in <a href = "https://link.springer.com/article/10.
 </body>
 <h2 id = 'Titles'>Panel discussion: are the features of modern software tools ( R ) also useful for HTA modeling  in LMICs?</h2>
 <body>
+<b>
 <p>
-Panelists:<a href ="https://r-hta.org/authors/fernando-alarid-escudero/">Assistant Prof Fernando Alarid-Escudero<a/>, <a href = "https://www.ucl.ac.uk/statistics/people/gianlucabaio">Prof Gianluca Biao<a/>, <a href = "https://southafrica.inspiringfifty.org/lucy-cunnama">Dr Lucy Cunnama<a/>
-</b>, and <a href = "https://www.bristol.ac.uk/people/person/Howard-Thom-7d5ace0c-a4eb-4fa0-8c0b-37dc141c0e9f/">Dr Howard Thom<a/>
+Panelists: <a href ="https://r-hta.org/authors/fernando-alarid-escudero/">Assistant Prof Fernando Alarid-Escudero<a/>, <a href = "https://www.ucl.ac.uk/statistics/people/gianlucabaio">Prof Gianluca Biao<a/>, <a href = "https://southafrica.inspiringfifty.org/lucy-cunnama">Dr Lucy Cunnama<a/>, and <a href = "https://www.bristol.ac.uk/people/person/Howard-Thom-7d5ace0c-a4eb-4fa0-8c0b-37dc141c0e9f/">Dr Howard Thom<a/>
 </p>
-<b><p>Moderator: <a href = "https://za.linkedin.com/in/buhle-n-04a5661a">Buhle Ndweni<a/></p>
+<p>Moderator: <a href = "https://za.linkedin.com/in/buhle-n-04a5661a">Buhle Ndweni<a/></p>
 </b>
 <p>
 The panel discussesion centers on the potential strengths and weaknesses of R for HTA in LMICs across four domains: clinical realism, quantifying decision uncertainty, transparency/reproducibility, and reusability/adaptability.
