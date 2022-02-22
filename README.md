@@ -12,7 +12,7 @@ An introduction to the inaugral R-HTA in LMICs workshop. The co-chairs discuss t
 </p>
 <h2 id = 'Titles'>Getting Started with Github and R</h2>
 <body>
-<b>Presenter: <a>href = "https://jsoboil.github.io/">Joshua Soboil<a/></b>
+<b>Presenter: <a href = "https://jsoboil.github.io/">Joshua Soboil<a/></b>
 <p>
 A brief overview and tutorial on using Github with R and Rstudio.
 </p>
