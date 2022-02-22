@@ -16,6 +16,7 @@ An introduction to the inaugral R-HTA in LMICs workshop. The co-chairs discuss t
 <p>
 A brief overview and tutorial on using Github with R and Rstudio.
 </p>
+See the R-HTA in LMICs <a href = "https://github.com/R-HTA-in-LMICs/Getting-Started-with-Github-and-R">Github repo<a/>
 </body>
 <h2 id = 'Titles'>BCEA: making decision modelling in R more user-friendly</h2>
 <body>
@@ -96,6 +97,6 @@ Panelists: <a href ="https://r-hta.org/authors/fernando-alarid-escudero/">Assist
 <p>Moderator: <a href = "https://za.linkedin.com/in/buhle-n-04a5661a">Buhle Ndweni<a/></p>
 </b>
 <p>
-The panel discussesion centers on the potential strengths and weaknesses of R for HTA in LMICs across four domains: clinical realism, quantifying decision uncertainty, transparency/reproducibility, and reusability/adaptability.
+The panel discussesion centers on the potential strengths and weaknesses of R for HTA in LMICs across four domains: clinical realism, quantifying decision uncertainty, transparency/reproducibility, and reusability/adaptability
 </p>
 </body>
