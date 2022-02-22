@@ -8,7 +8,7 @@ This repository is for the code and decks used by the presenters of the first-qu
 <body>
 <b>Presenters: Co-chairs of R-HTA in LMICs</b>
 <p>
-An introduction to the inaugral R-HTA in LMICs workshop. The co-chairs discuss the motivations behind the chapter and introduce the team.
+An introduction to the inaugural R-HTA in LMICs workshop. The co-chairs discuss the motivations behind the chapter and introduce the team.
 </p>
 <h2 id = 'Titles'>Getting Started with Github and R</h2>
 <body>
@@ -52,7 +52,7 @@ Read the study in <a href = "https://gh.bmj.com/content/7/2/e004512">BMJ Global 
 Models applied in cost-effectiveness analyses of screening are typically designed to address specific policy questions and consequently tend to be large and complex. They are not well suited to teaching the fundamentals of screening modelling or to demonstrating novel modelling methods.
 </p>
 <p>
-The presentations thus describes a lightweight, fully shareable and transparent screening model for teaching and methods research. This is a simplified, discrete-event, microsimulation model of screening coded in R and supported with an Excel-based user interface for the specification of input parameters. The model's components relating to the natural history of disease, test performance and anticipated health gain and healthcare costs are also demonstrated.
+The presentation thus discusses a lightweight, fully shareable and transparent screening model for teaching and methods research. This is a simplified, discrete-event, microsimulation model of screening coded in R and supported with an Excel-based user interface for the specification of input parameters. The model's components relating to the natural history of disease, test performance and anticipated health gain and healthcare costs are also demonstrated.
 </p>
 The source code for this model will be shared once the author has given permission
 </body>
