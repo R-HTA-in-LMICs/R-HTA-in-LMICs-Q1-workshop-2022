@@ -42,7 +42,7 @@ The R package Shiny has the potential to resolve this limitation. It allows prog
 <p>
 Overview of the models and presentation of a Shiny app by Mr David Tordrup, Triangulate Health Ltd. The model and app were developed by the World Health Organization in in collaboration with Triangulate Health Ltd.
 </p>
-Read the study in <a href = "https://gh.bmj.com/content/7/2/e004512">BMJ Global Health<a/>.
+Read the study in <a href = "https://gh.bmj.com/content/7/2/e004512">BMJ Global Health<a/>
 </body>
 <h2 id = 'Titles'>The Cost-Effectiveness of COVID Vaccines: a Shiny presentation</h2>
 <body>
