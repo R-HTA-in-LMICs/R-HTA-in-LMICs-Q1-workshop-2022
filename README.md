@@ -45,13 +45,16 @@ Overview of the models and presentation of a Shiny app by Mr David Tordrup, Tria
 </p>
 Read the study in <a href = "https://gh.bmj.com/content/7/2/e004512">BMJ Global Health<a/>
 </body>
-<h2 id = 'Titles'>The Cost-Effectiveness of COVID Vaccines: a Shiny presentation</h2>
+<h2 id = 'Titles'>A Simplified Model of the Cost-Effectiveness of Screening: An Open-Source Teaching and Research Tool Coded in R</h2>
 <body>
-<b>Presenter: <a href = "https://www.himss.org/speaker-alejandro-lopez-osornio">Dr Alejandro Lopez Osornio<a/></b>
+<b>Presenter: <a href = "https://www.tcd.ie/medicine/health_policy_management/staff/">Yi-Shu Lin<a/></b>
 <p>
-A an interactive presentation on the health impact and cost-effectiveness of COVID-19 vaccines for 26 Latin American counties, using Shiny.
+Models applied in cost-effectiveness analyses of screening are typically designed to address specific policy questions and consequently tend to be large and complex. They are not well suited to teaching the fundamentals of screening modelling or to demonstrating novel modelling methods.
 </p>
-The code for this model is not open-source
+<p>
+The presentations thus describes a lightweight, fully shareable and transparent screening model for teaching and methods research. This is a simplified, discrete-event, microsimulation model of screening coded in R and supported with an Excel-based user interface for the specification of input parameters. The model's components relating to the natural history of disease, test performance and anticipated health gain and healthcare costs are also demonstrated.
+</p>
+The source code for this model will be shared once the author has given permission
 </body>
 <h2 id = 'Titles'>Budget Impact Analysis: a Shiny based calculator</h2>
 <body>
@@ -69,16 +72,13 @@ On presentation on moving from Excel to R for SIR modelling. The presentation di
 </p>
 The code for this model is not open-source
 </body>
-<h2 id = 'Titles'>A Simplified Model of the Cost-Effectiveness of Screening: An Open-Source Teaching and Research Tool Coded in R</h2>
+<h2 id = 'Titles'>The Cost-Effectiveness of COVID Vaccines: a Shiny presentation</h2>
 <body>
-<b>Presenter: <a href = "https://www.tcd.ie/medicine/health_policy_management/staff/">Yi-Shu Lin<a/></b>
+<b>Presenter: <a href = "https://www.himss.org/speaker-alejandro-lopez-osornio">Dr Alejandro Lopez Osornio<a/></b>
 <p>
-Models applied in cost-effectiveness analyses of screening are typically designed to address specific policy questions and consequently tend to be large and complex. They are not well suited to teaching the fundamentals of screening modelling or to demonstrating novel modelling methods.
+A an interactive presentation on the health impact and cost-effectiveness of COVID-19 vaccines for 26 Latin American counties, using Shiny.
 </p>
-<p>
-The presentations thus describes a lightweight, fully shareable and transparent screening model for teaching and methods research. This is a simplified, discrete-event, microsimulation model of screening coded in R and supported with an Excel-based user interface for the specification of input parameters. The model's components relating to the natural history of disease, test performance and anticipated health gain and healthcare costs are also demonstrated.
-</p>
-The source code for this model will be shared once the author has given permission
+<a href = "https://github.com/ciips-code/seir_ages">Github repo<a/> and <a href = "https://iecs.shinyapps.io/covid-model-v2/">Shiny App<a/>
 </body>
 <h2 id = 'Titles'>A Need for Change! A Coding Framework for Improving Transparency in Decision Modelling</h2>
 <body>
