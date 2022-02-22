@@ -78,7 +78,7 @@ The code for this model is not open-source
 <p>
 A an interactive presentation on the health impact and cost-effectiveness of COVID-19 vaccines for 26 Latin American counties, using Shiny.
 </p>
-Explore the <a href = "https://iecs.shinyapps.io/covid-model-v2/">Shiny App<a/> and <a href = "https://github.com/ciips-code/seir_ages">Github repo<a/>
+Explore the <a href = "https://iecs.shinyapps.io/covid-model-v2/">Shiny App<a/> and open source code on <a href = "https://github.com/ciips-code/seir_ages">Github<a/>
 </body>
 <h2 id = 'Titles'>A Need for Change! A Coding Framework for Improving Transparency in Decision Modelling</h2>
 <body>
