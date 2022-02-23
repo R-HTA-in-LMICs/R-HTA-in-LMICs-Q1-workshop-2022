@@ -16,7 +16,7 @@ An introduction to the inaugural R-HTA in LMICs workshop. The co-chairs discuss 
 <p>
 A brief overview and tutorial on using Github with R and Rstudio.
 </p>
-See the R-HTA in LMICs <a href = "https://github.com/R-HTA-in-LMICs/Getting-Started-with-Github-and-R">Github repo<a/>
+See the R-HTA in LMICs <a href = "https://github.com/R-HTA-in-LMICs/Getting-Started-with-Github-and-R">Github<a/>
 </body>
 <h2 id = 'Titles'>BCEA: making decision modelling in R more user-friendly</h2>
 <body>
@@ -35,7 +35,7 @@ Health economic evaluation models have traditionally been built in Microsoft Exc
 <p>
 The R package Shiny has the potential to resolve this limitation. It allows programmers to embed health economic models developed in R into interactive web browser based user interfaces. Users can specify their own assumptions about model parameters and run different scenario analyses, which, in the case of regular a Markov model, can be computed within seconds. This paper provides a tutorial on how to wrap a health economic model built in R into a Shiny application. We use a four-state Markov model developed by the Decision Analysis in R for Technologies in Health (DARTH) group as a case-study to demonstrate main principles and basic functionality.
 </p>
-<a href = "https://github.com/r-hta/R-Shiny-for-HTA">Github repo<a/>
+<a href = "https://github.com/r-hta/R-Shiny-for-HTA">Github<a/>
 </body>
 <h2 id = 'Titles'>Economic Burden of Female Genital Mutilation in 27 High-Prevalence Countries: a series of national cohort models in R and a web app in Shiny</h2>
 <body>
@@ -54,7 +54,7 @@ Models applied in cost-effectiveness analyses of screening are typically designe
 <p>
 The presentation thus discusses a lightweight, fully shareable and transparent screening model for teaching and methods research. This is a simplified, discrete-event, microsimulation model of screening coded in R and supported with an Excel-based user interface for the specification of input parameters. The model's components relating to the natural history of disease, test performance and anticipated health gain and healthcare costs are also demonstrated.
 </p>
-<a href = "https://github.com/yishu-lin/Pedagogical-CEA-Model-of-Screening">Github repo<a/>
+<a href = "https://github.com/yishu-lin/Pedagogical-CEA-Model-of-Screening">Github<a/>
 </body>
 <h2 id = 'Titles'>Budget Impact Analysis: a Shiny based calculator</h2>
 <body>
