@@ -62,7 +62,7 @@ The presentation thus discusses a lightweight, fully shareable and transparent s
 <p>
 A Budget Impact Analysis presentation focusing Shiny and its ability to provide decision makers with an interactive model format.
 </p>
-The code for this model is not open-source
+Explore the <a href = "https://github.com/yishu-lin/Pedagogical-CEA-Model-of-Screening">Shiny App<a/> and use the code 'IECS2024' when prompted
 </body>
 <h2 id = 'Titles'>Modelling Covid in R: an experience in using R over Excel for SIR modelling</h2>
 <body>
