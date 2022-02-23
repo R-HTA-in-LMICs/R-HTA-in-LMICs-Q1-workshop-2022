@@ -54,7 +54,7 @@ Models applied in cost-effectiveness analyses of screening are typically designe
 <p>
 The presentation thus discusses a lightweight, fully shareable and transparent screening model for teaching and methods research. This is a simplified, discrete-event, microsimulation model of screening coded in R and supported with an Excel-based user interface for the specification of input parameters. The model's components relating to the natural history of disease, test performance and anticipated health gain and healthcare costs are also demonstrated.
 </p>
-The source code for this model will be shared once the author has given permission
+<a href = "https://github.com/yishu-lin/Pedagogical-CEA-Model-of-Screening">Github repo<a/>
 </body>
 <h2 id = 'Titles'>Budget Impact Analysis: a Shiny based calculator</h2>
 <body>
