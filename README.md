@@ -86,7 +86,7 @@ Explore the <a href = "https://iecs.shinyapps.io/covid-model-v2/">Shiny App<a/> 
 <p>
 The use of open-source programming languages, such as R, in health decision sciences is growing and has the potential to facilitate model transparency, reproducibility, and shareability. However, realizing this potential can be challenging. Models are complex and primarily built to answer a research question, with model sharing and transparency relegated to being secondary goals. Consequently, code is often neither well documented nor systematically organized in a comprehensible and shareable approach. Moreover, many decision modelers are not formally trained in computer programming and may lack good coding practices, further compounding the problem of model transparency. To address these challenges, the presentation provides an overview of a high-level framework for model-based decision and cost-effectiveness analyses (CEA) in R.
 </p>
-Read the open-access article in <a href = "https://link.springer.com/article/10.1007/s40273-019-00837-x">Springer<a/>
+Read the open-access article in <a href = "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6871515/">PMC<a/>
 </body>
 <h2 id = 'Titles'>Panel discussion: are the features of modern software tools ( R ) also useful for HTA modeling  in LMICs?</h2>
 <body>
